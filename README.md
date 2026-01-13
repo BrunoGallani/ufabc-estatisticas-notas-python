@@ -1,4 +1,3 @@
-In this repository, you can view all the python projects I developed:
+Projeto acadêmico da UFABC, desenvolvido no segundo quadrimestre letivo do ano de 2023 como atividade avaliativa da disciplina "Processamento da Informação".
 
-- <a href="https://github.com/BrunoGallani/case_tunts.rocks">Integrating Python-Google Sheets to fill missing values on a spreadsheet</a> (case_tunts.rocks);
-- <a href = "./calculadora_estatistica_notas_escolares.py">Scholar grades statistics calculator</a> (written in PT-BR).
+**Título do projeto**: Calculadora de estatísticas de notas escolares
